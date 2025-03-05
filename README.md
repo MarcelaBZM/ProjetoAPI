@@ -92,7 +92,4 @@ user-crud/
 
 Projeto desenvolvido por **Marcela Bezerra de Medeiros**, para a disciplina **Tópicos Especiais em Desenvolvimento Web**, implementando um CRUD de usuário utilizando Laravel e Guzzle.
 
-## 📜 Licença
-
-Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
 
