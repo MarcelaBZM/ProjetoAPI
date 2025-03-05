@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "nome": "Oliner Correia de Medeiros",
+      "dataNascimento": "1975-03-15",
+      "email": "oliner@gmail.com",
+      "cpf": "33333333333",
+      "fone": "88997458124",
+      "endereco": {
+        "rua": "Rua Padre Felipe Santiago",
+        "cep": "62380000",
+        "bairro": "Fanucão",
+        "numero": "503",
+        "cidade": "Guaraciaba do Norte",
+        "estado": "CE"
+      },
+      "id": 3
+    }
+  ]
+}
